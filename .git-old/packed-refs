@@ -1,0 +1,87 @@
+# pack-refs with: peeled fully-peeled sorted 
+926cf213d344afbb2291381b162b97cfb391d059 refs/remotes/origin/#788
+bafec89fa46316cb47639d0e83677cc511e57e01 refs/remotes/origin/403support
+f93873c0a3739c304a2c20a277d9d8e083331d95 refs/remotes/origin/add_test_clientside_filtering
+b395be9bd0c4c0c4591975bd0001c15fa4be187c refs/remotes/origin/another-ci-fail-test
+084cdc360ca837804a2a335d097d22bbd7b057bf refs/remotes/origin/bug_fixes
+2a9ff8e1e3ac293b6da4566785236183b0fba6e0 refs/remotes/origin/button_db_reset
+4a061f61a6810d208d096ad130dd4b87c073fc3a refs/remotes/origin/challenge
+8a982dedb547cf249b785f93d67593384a47e43d refs/remotes/origin/challenge7
+c54d151b5dc6232d33609e124338d7855198f454 refs/remotes/origin/classloading
+2760070bc658949c268f7e5b4d25fe24a0292937 refs/remotes/origin/dependabot/npm_and_yarn/docs/node-sass-4.14.1
+d5f78351a210425e635a4d0f662c28f514eda781 refs/remotes/origin/develop
+b06d9ffd8123ffe9ad280d09be42e839189632fe refs/remotes/origin/feature/137
+015dcbde38a520474f0ed9e73e7ef3255aa75be6 refs/remotes/origin/feature/169
+b876ba14e54a6fccebdbe1f604437588ea98b704 refs/remotes/origin/feature/failing_functional_testcases
+49ddc605e1d1cbcc9e3133ae18e3f543322c9750 refs/remotes/origin/feature/portnumber
+95607089d4c5b1b41ed80ec5f52b6d31b21d33c7 refs/remotes/origin/feature/spring-boot
+f806df05e297c7c224d169d65e99d4899fe19803 refs/remotes/origin/feedback
+28b6d077adff9d2bd5c7692298e26a8105209153 refs/remotes/origin/firefox_local_proxy
+e8af106b06b984f480b711305d3e9e94d6ef8ee7 refs/remotes/origin/green-button
+ed145bb047702ddc23b5ac7fe2dc574a17bd3833 refs/remotes/origin/hints_per_lesson
+2a4370a864e1433f5a1b91a367699a87451b8126 refs/remotes/origin/improve-xxe
+8d7ecb19d79ee614a90d4567c200a41533febdc1 refs/remotes/origin/jwt
+c0ce72a2bd8279d4dcfe83a5f2ecd50911f18cd2 refs/remotes/origin/master
+b28d5ecdef0aeb0c7c9ae2819ef853f0daadc47a refs/remotes/origin/mvn_repo
+d348a6e858d20f0dc1c06b97924814e1daafa9b3 refs/remotes/origin/password_storage
+1edceb0aa8a0596be6b760b14b977e9b4c5e9971 refs/remotes/origin/passwords
+e1f16e4d15f732ade2be7bee774955d275edc51f refs/remotes/origin/path-traversal
+44caf2557b30166d9b3489e3abcb4f032b320229 refs/remotes/origin/path-traversal-int-test-proposal
+9f21af797e573be42b790bd1e827545ebc3bdf8f refs/remotes/origin/poller-change
+fe2ac1b8d41dcf22ac650cea3456abcce756805e refs/remotes/origin/release/v8.0.0.M26
+39740e069e32fca1e3f460897701d6c516bf1edf refs/remotes/origin/release/v8.1.0
+cbcfe63fc621e5adbf97bf5e49632d56611a4b29 refs/remotes/origin/revert-617-csrf-7-strict
+f445a9c86b782dd82b8fd973ef4cab41d4ef10bc refs/remotes/origin/revert-733-dependabot/maven/webgoat-lessons/com.thoughtworks.xstream-xstream-1.4.6
+4fa10fd794fba66d158d3e68b378e09053b80671 refs/remotes/origin/small-fixes-june-2020
+73ab73179e3f42707eee793f471d8ec268bc1311 refs/remotes/origin/split_sql
+d080b3ef0608194f861340bcbd43291b48fe208b refs/remotes/origin/spring-boot-2
+fe2adb1462d8b80cfcd0f20f567b9e4b07dec473 refs/remotes/origin/sql_bug
+267a287a2dbc56f598fba7d69d61ac6c08981986 refs/remotes/origin/sql_fixes
+265639eed8ff67bf4d3dca7b3b8812af9b971803 refs/remotes/origin/travis
+fb0f9dfc2df382c2fbd9f145b3fa727829b45d21 refs/remotes/origin/vulnerable-cve-more-clear
+f825bead8b47cfc8f3ef95bf41275a724b2b8582 refs/tags/7.0.1
+00cd2aafc9243718a91131773f23e48ed64d85b2 refs/tags/7.1
+^2d1a89e791d6f48195039e5d8a797fd090e8b74f
+d8d943a270ea0a50aa27d4a9fe7f3177c0f76371 refs/tags/8.0.0
+^114fbc5760627d212379030686b6f7f41bd13473
+20a0b965b384b3744cf6714638836012d737e083 refs/tags/v8.0.0
+^985148ede3de39073c3bfa5b784ed52eb8496dfc
+8250b4048f70427351646c1b6798bff63071cc01 refs/tags/v8.0.0.M1
+13a4b69cbecdba25500e961d48486709c5a24643 refs/tags/v8.0.0.M10
+2ae1b4955f89c4958e9264677a59255f09b22419 refs/tags/v8.0.0.M11
+2ae1b4955f89c4958e9264677a59255f09b22419 refs/tags/v8.0.0.M12
+58d4b81df28a523209251f3d85aa7dda0d0473b1 refs/tags/v8.0.0.M13
+f30db3abfc7fb584d3f358372ee5b1c0116e32f7 refs/tags/v8.0.0.M14
+55793dd1533cae76c617b959920ada4df2a3790b refs/tags/v8.0.0.M15
+6ff59bb8e59888ee232db1846a1a8500e1633a10 refs/tags/v8.0.0.M16
+^b2984409850aa1891d87de56fe4fc8b969de7466
+f2df49a6cfbf1f89e78c590837d8d1bb77678975 refs/tags/v8.0.0.M17
+^9af0054b5b02fa37367079af5cdf1baa2a50b379
+09a42fd2c7263b903920a78d3444a42c0fcfbb2d refs/tags/v8.0.0.M18
+^12123ef13bb0b1c9b1e11871b93b43853d94e5a8
+6207ab99eabf9b59ee0d1a79b19914c2f28b348a refs/tags/v8.0.0.M19
+^b7278590f593e19fca0c66b5f5af9f10c9cfa329
+bb3bc9b88319491f20da534a4c830b8b7057a23b refs/tags/v8.0.0.M2
+2b759735fe5cb34d0e8fef789476c4f676bdaa0b refs/tags/v8.0.0.M20
+^898dd90c6ff52e298f590b26c88f3adbdd09105e
+9279134cfa3538055a7923c1c8c28df9cceea9c6 refs/tags/v8.0.0.M21
+^3536fd0b6daf61042d4f2cd2f2b354a1c219c311
+cce7688007256af5da3b605f90290607f5980f28 refs/tags/v8.0.0.M22
+^7b8e3cdb524ff2740aae2a3bbae398f25fae6b5a
+9ad5aa7d00fb1a30e7cae59bcac0a8876474f281 refs/tags/v8.0.0.M23
+^72968d9619a7f4c98214c24acd0faaa2cbf94bcb
+84b57ed0717eab238111254753098866149f4a0a refs/tags/v8.0.0.M24
+^4948380aa191cfb11ad90c253f8235a220c4e85c
+fe4ec33fab7ba29f8744df0c52d15b96d6ced613 refs/tags/v8.0.0.M25
+^d8d32c60cb647e1cd9fc28c4beb3ca73784b1957
+2e88bfe1ecd2181c52d0741845ff77c9c900307a refs/tags/v8.0.0.M26
+^c8ac054093b935f2ae50e495837aa37c330fcee6
+f91f77708ac9d498594f73d0f58a31bffc2fe3cb refs/tags/v8.0.0.M3
+99048d6d9d2532ea5838dc946a0cb998a4d6095d refs/tags/v8.0.0.M4
+43b82027f5bd6e3732da844c0d8d672215768571 refs/tags/v8.0.0.M5
+4811a9d563a2c953705ea9ed99ece3d8bb492c83 refs/tags/v8.0.0.M6
+d3ee9431d859d6727dc2f694a87b88d53dc94fb5 refs/tags/v8.0.0.M7
+ee11381a63a428b6777a85f203a52344d80c8b54 refs/tags/v8.0.0.M8
+04ccf9a422eb59a4ad175427d872e4df975b4042 refs/tags/v8.0.0.M9
+4e8f77ac6d88926b0c8a420b044326b976530645 refs/tags/v8.1.0
+^a4f7059051dbb17b9c36818030f95609d3e163ec
