@@ -7,6 +7,7 @@
     <artifactId>webgoat-parent</artifactId>
     <packaging>pom</packaging>
     <version>v8.1.0</version>
+    <packaging>war</packaging>
 
     <name>WebGoat Parent Pom</name>
     <description>Parent Pom for the WebGoat Project. A deliberately insecure Web Application</description>
@@ -188,19 +189,15 @@
 				<suppressionsFileExpression>checkstyle.suppressions.file</suppressionsFileExpression>
 			</configuration>
 		</plugin>
-		<!-- DependecyCheck -->
+		<!-- War Generate -->
 		<plugin>
-                   <groupId>org.owasp</groupId>
-                   <artifactId>dependency-check-maven</artifactId>
-                   <version>1.3.1</version>
-                   <executions>
-                      <execution>
-                         <goals>
-                            <goal>aggregate</goal>
-                         </goals>
-                      </execution>
-                   </executions>
-                 </plugin>
+			<artifactId>maven-war-plugin</artifactId>
+			<version>2.4</version>
+			<configuration>
+				<warSourceDirectory>target</warSourceDirectory>
+				<failOnMissingWebXml>false</failOnMissingWebXml>
+			</configuration>
+		</plugin>
 	</plugins>
 </build>
 
