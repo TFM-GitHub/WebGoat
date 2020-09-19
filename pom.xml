@@ -5,9 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.owasp.webgoat</groupId>
     <artifactId>webgoat-parent</artifactId>
-    <!--packaging>pom</packaging-->
+    <packaging>pom</packaging>
     <version>v8.1.0</version>
-    <packaging>war</packaging>
 
     <name>WebGoat Parent Pom</name>
     <description>Parent Pom for the WebGoat Project. A deliberately insecure Web Application</description>
